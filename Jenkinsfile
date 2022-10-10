@@ -27,7 +27,8 @@ pipeline {
                 }
             }
             stage ('Deploy') { 
-                node ('awsDeploy') {
+                agent {
+                    label 'awsDeploy'
                 } 
                 steps {
                     sh '''#!/bin/bash
