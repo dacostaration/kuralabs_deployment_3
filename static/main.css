@@ -9,14 +9,16 @@ input#file.form-control {
   background:rgba(0,0,0,0.4);
 }
 .div1 {
-  background: rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.1) !important;
 }
 .div2 {
-  background: rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0.2) !important;
 }
 #btn1 {
   background:rgba(0,0,0,0.4);
+  border-color:rgba(0,0,0,0.2);
 }
 #btn2 {
   background:rgba(0,0,0,0.4);
+  border-color:rgba(0,0,0,0.2);
 }
