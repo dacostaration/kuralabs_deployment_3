@@ -6,7 +6,7 @@ input#file.form-control {
   background-size: 400% 400%;
 }
 .topDiv {
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.4) !important;
 }
 .div1 {
   background: rgba(0,0,0,0.1) !important;
