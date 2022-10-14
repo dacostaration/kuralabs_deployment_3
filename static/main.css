@@ -23,3 +23,10 @@ input#file.form-control {
   background:rgba(0,0,0,0.4);
   border-color:rgba(0,0,0,0.2);
 }
+div.pgPeel {
+  position:absolute; 
+  bottom:0;
+  right:0;
+  width: 360px;
+  height:360px;
+}
