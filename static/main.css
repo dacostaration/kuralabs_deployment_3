@@ -30,3 +30,10 @@ input#file.form-control {
   width: 360px;
   height:360px;
 }
+#pgPeel img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 360px;
+  width: 20vw;  
+}
