@@ -6,7 +6,7 @@
 - Using a Jenkins CI/CD Pipeline to deploy a Flask / Python application to a Jenkins Agent that is hosted in a customized VPC.
 - Not quite a full LEMP stack [ JavaScript, Linux, Nginx, MySQL and PHP ] but closer to this than any other web stack
 
-## Table of contexts (Organized list)
+## Table of contents
 1. Application files: [click here](https://github.com/dacostaration/kuralabs_deployment_3)
 2. Documentation folder: [click here](https://github.com/dacostaration/kuralabs_deployment_3/tree/main/Documentation)
 3. static folder: [click here](https://github.com/dacostaration/kuralabs_deployment_3/tree/main/static)
