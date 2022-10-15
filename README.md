@@ -7,7 +7,7 @@
 - Not quite a full LEMP stack [ JavaScript, Linux, Nginx, MySQL and PHP ] but closer to this than any other web stack
 
 ## Table of contexts (Organized list)
-1. Application files: [click here](https://github.com/kura-labs-org/Template/tree/main/Application)
+1. Application files: [click here](https://github.com/dacostaration/kuralabs_deployment_3)
 2. Documentation folder: [click here](https://github.com/dacostaration/kuralabs_deployment_3/tree/main/Documentation)
 3. static folder: [click here](https://github.com/dacostaration/kuralabs_deployment_3/tree/main/static)
 4. templates folder: [click here](https://github.com/dacostaration/kuralabs_deployment_3/tree/main/templates)
